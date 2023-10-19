@@ -1,13 +1,14 @@
 ## Olá Dev ;) 👋 Boas vindas a organização da Room
 
 
-<img src="https://user-images.githubusercontent.com/98264322/235172902-360a867e-32f9-4be1-a7b8-2423862a15e4.jpg" height="400">
+<img src="https://github.com/room-organization/.github/assets/98264322/fca9c16f-bda0-437b-884d-4ba3ee4777d2" height="400">
 
 
 
 
 <!-- 
 **Here are some ideas to get you started:**
+
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
